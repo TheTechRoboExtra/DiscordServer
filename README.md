@@ -1,6 +1,8 @@
 # DiscordServer
 Here you can find info about the server, so you can start a similar one!
 
+The server can be found at https://discord.gg/RhTB3nd.
+
 Find the info in [TheInfo.md](TheInfo.md).
 
 # License
